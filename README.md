@@ -7,10 +7,10 @@ This code is intended for practical impulse-response measurement using audio dev
 ## Files
 
 ```text
-OATSP.py                  Main script
-figures/tsp_signal.png    Example OATSP signal
-figures/impulse_response.png  Example deconvolution result
-README.md                 This file
+OATSP.py                         Main script
+figures/tsp_signal.png           Example OATSP signal
+figures/impulse_response.png     Example deconvolution result
+README.md                        This file
 ```
 
 ## Required Python packages
